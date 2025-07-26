@@ -627,7 +627,7 @@ export const proyectosEscolares = {
       "Proyecto escolar basado en el modelo de SICEFA para administrar ventas, empleados, productos y sucursales.",
     rol: "Desarrollador del módulo de empleados",
     technologies: ["Java", "JavaFX", "HTML", "CSS", "JavaScript"],
-    repositorio: "https://github.com/Manuel-Gaona/SICEFA-Integradora",
+    repositorio: "https://github.com/Manuel-Gaona/LelegantChatNoir",
     contenidoExtra: (
       <>
         <h3 className="mt-4 text-xl font-semibold">Detalles del proyecto</h3>
